@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello this is test
-
+sdfjasfassdfasdf
+=======
+This is a txt file
+>>>>>>> 46df9da2847058429792adc4c40c6e3ffffb7832
